@@ -1,0 +1,29 @@
+{
+    "blogTopics": [
+        {
+            "topicTitle": "The Future of Software Development: Trends to Watch in 2024",
+            "topic_metaTitle": "Future of Software Development 2024 | Majeks Software Insights",
+            "topic_metaDescription": "Explore the upcoming trends in software development for 2024 and how Majeks Software is adapting to these changes."
+        },
+        {
+            "topicTitle": "Top 10 Software Solutions for Small Businesses",
+            "topic_metaTitle": "Best Software Solutions for Small Businesses | Majeks Software",
+            "topic_metaDescription": "Discover the top 10 software solutions that can help small businesses streamline their operations and increase efficiency, brought to you by Majeks Software."
+        },
+        {
+            "topicTitle": "How to Choose the Right Software Development Partner",
+            "topic_metaTitle": "Choosing a Software Development Partner | Majeks Software Guide",
+            "topic_metaDescription": "Learn the key factors to consider when selecting a software development partner and how Majeks Software can meet your needs."
+        },
+        {
+            "topicTitle": "Understanding Agile Methodologies in Software Development",
+            "topic_metaTitle": "Agile Methodologies Explained | Majeks Software",
+            "topic_metaDescription": "Gain insights into agile methodologies and how they can enhance your software development process with Majeks Software."
+        },
+        {
+            "topicTitle": "The Importance of Cybersecurity in Software Development",
+            "topic_metaTitle": "Cybersecurity in Software Development | Majeks Software",
+            "topic_metaDescription": "Understand the critical role of cybersecurity in software development and how Majeks Software prioritizes secure coding practices."
+        }
+    ]
+}
