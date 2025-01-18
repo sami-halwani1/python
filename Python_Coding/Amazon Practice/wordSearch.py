@@ -56,7 +56,7 @@ board = [
   ["S","F","C","S"],
   ["A","D","E","E"]
 ]
-# word = "ABCCED"
-word = "ABCB"
+word = "ABCCED"
+# word = "ABCB"
 # word = "SEE"
 print(sol.exist(board, word))

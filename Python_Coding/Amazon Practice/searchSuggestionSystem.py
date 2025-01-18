@@ -40,7 +40,7 @@ class Solution:
         #     while l<=r and (len(products[l]) <= i) or products[r][i] != search:
         #         r -= 1
 
-        #     word_left = r-1 +1
+        #     word_left = r-l +1
         #     if word_left >=3:
         #         result.append([products[l], products[l+1], products[l+2]])
         #     elif word_left == 2:
@@ -54,7 +54,7 @@ class Solution:
     
 
 products = ["mobile", "mouse", "moneypot", "monitor", "mousepad"]
-searchWord = "moneypot"
+searchWord = "mousepad"
 
 solution = Solution()
 result = solution.suggestedProducts(products, searchWord)
